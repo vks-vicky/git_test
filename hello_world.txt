@@ -1,1 +1,3 @@
 ECHO is on.
+
+Command to create files : echo, touch , fsutil, nano...
